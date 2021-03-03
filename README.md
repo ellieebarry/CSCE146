@@ -1,1 +1,1 @@
-A repository for my assignments for my CSCE 146 class at University of South Carolina.
+A repository for my assignments for my Algorithmic Design II class at University of South Carolina.
